@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Kim jesteśmy z osobna?',
+    paragraph: 'O zespole można powiedzieć wiele, ale jeszcze więcej dowiecie się gdy opowiemy wam o sobie!'
   };
 
   return (

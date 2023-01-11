@@ -93,7 +93,7 @@ const Header = ({
                 className="header-nav-toggle"
                 onClick={isActive ? closeMenu : openMenu}
               >
-                <span className="screen-reader">Menu</span>
+                <span className="screen-reader">MBMBMB</span>
                 <span className="hamburger">
                   <span className="hamburger-inner"></span>
                 </span>
@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Documentation</Link>
+                      <Link to="#0" onClick={closeMenu}>Edgar</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
